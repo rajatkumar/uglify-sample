@@ -11,4 +11,4 @@ transform(sampleCodex, {mangle:true}, function(err){
     assert.equal(sampleCodex.registry['helloWorld.js'].source.indexOf("\n"),-1)
     console.log("If you see this, the run was successfull, you can verify the transformation:");
     console.log(sampleCodex.registry['helloWorld.js'].source);
-})
+});
