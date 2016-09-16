@@ -1,0 +1,23 @@
+{
+  "name": "uglify-sample",
+  "version": "0.0.1",
+  "description": "Sample on using uglify with codex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajatkumar/uglify-sample.git"
+  },
+  "author": "Rajat Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rajatkumar/uglify-sample/issues"
+  },
+  "homepage": "https://github.com/rajatkumar/uglify-sample#readme",
+  "dependencies": {
+    "lodash": "^4.15.0",
+    "uglify-js": "^2.7.3"
+  }
+}
